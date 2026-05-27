@@ -8,7 +8,8 @@ const FONTES = [
 ];
 
 // Mock de dados simulando a extração das fontes (PNDBio - Indústria Verde)
-const dadosExtraidos = {
+const dadosExtraidos = {        "Criação de Departamentos focados: Patrimônio Genético (DEAMA), Descarbonização (DCARB) e Novas Economias (DNOVA).",
+
     titulo: "Plano Nacional de Desenvolvimento da Bioeconomia (PNDBio)",
     dataLancamento: "01/04/2026",
     orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
